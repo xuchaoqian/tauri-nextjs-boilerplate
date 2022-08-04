@@ -2,7 +2,7 @@
 
 This project shows how to implement tauri with nextjs.
 
-## installation
+## Available commands
 
 - install dependencies for frontend
 
